@@ -54,14 +54,22 @@
 		85558AB72335703400DC2548 /* Git Lesson */ = {
 			isa = PBXGroup;
 			children = (
-				85558AB82335703400DC2548 /* AppDelegate.swift */,
+				85BC86E9233579E00065C652 /* Resources */,
 				85558ABA2335703400DC2548 /* ViewController.swift */,
 				85558ABC2335703400DC2548 /* Main.storyboard */,
+			);
+			path = "Git Lesson";
+			sourceTree = "<group>";
+		};
+		85BC86E9233579E00065C652 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				85558AB82335703400DC2548 /* AppDelegate.swift */,
 				85558ABF2335703500DC2548 /* Assets.xcassets */,
 				85558AC12335703500DC2548 /* LaunchScreen.storyboard */,
 				85558AC42335703500DC2548 /* Info.plist */,
 			);
-			path = "Git Lesson";
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
